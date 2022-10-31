@@ -2,9 +2,7 @@
 :root {
 	--global-color-1: #800000;
 }
-*{
-	background-color: white;
-}
+
 /* the styles for the elements */
 body {
 	font-family: Arial, Helvetica, sans-serif;
