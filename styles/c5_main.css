@@ -12,7 +12,8 @@ body {
     margin-left: 0;
 	width: 600px;
 	border-color: #931420;
-	border-width: 10px;
+	border-style: solid;
+	border-width: 3px;
 	background-color: #fffded;
 }
 a:focus, a:hover {
@@ -20,6 +21,7 @@ a:focus, a:hover {
 }
 /* the styles for the header */
 header {
+	border-style: solid;
 	border-color: #931420;
 	border-width: 3px;
 }
