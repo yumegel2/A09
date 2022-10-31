@@ -11,7 +11,7 @@ body {
 	margin-bottom: 0;
     margin-left: 10px;
 	width: 600px;
-	border: #931420 3px;
+	border: 3px #931420 ;
 	background-color: #fffded;
 }
 a:focus, a:hover {
