@@ -77,6 +77,11 @@ main li {
 }
 
 /* the styles for the footer */
+footer {
+	border-top: 3px solid #931420;
+	border-bottom: 3px solid #931420;
+	background-color: #931420;
+}
 footer p {
 	text-align: center;
 	padding: 1em 0;
