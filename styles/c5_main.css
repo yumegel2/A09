@@ -9,16 +9,20 @@ body {
     font-size: 100%;
 	margin-top: 0;
 	margin-bottom: 0;
-    margin-left: 10px;
+    margin-left: 0;
 	width: 600px;
 	border-color: #931420;
-	border-width: 3px;
+	border-width: 10px;
 	background-color: #fffded;
 }
 a:focus, a:hover {
 	font-style: italic;
 }
 /* the styles for the header */
+header {
+	border-color: #931420;
+	border-width: 3px;
+}
 header h2 {
 	font-size: 175%;
 	color: var(--global-color-1);
