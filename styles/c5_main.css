@@ -23,19 +23,21 @@ a:focus, a:hover {
 header {
 	border-bottom: 3px solid #931420;
 	background-color: #fffded;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
 }
 header h2 {
 	font-size: 175%;
 	color: var(--global-color-1);
-	text-indent: 30px;
 }
 header h3 {
 	font-size: 130%;
 	font-style: italic;
-	text-indent: 30px;
 }
 header img {
 	float: left;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 .shadow {
 	text-shadow: 2px 2px 2px var(--global-color-1);
