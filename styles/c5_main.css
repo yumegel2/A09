@@ -48,6 +48,9 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
+	border-style: solid;
+	border-color: #931420;
+	border-width: 3px;
 }
 main h2 {
 	color: var(--global-color-1);
